@@ -84,9 +84,7 @@ training_data = [
     ("weather", "Tell me the weather forecast."),
     ("farewell", "Until next time!"),
     ("farewell", "Catch you later!"),
-    
-    # Continue adding more examples...
-    ("translation", "Translate 'hello' to Spanish."),
+        ("translation", "Translate 'hello' to Spanish."),
     ("translation", "How do you say 'thank you' in French?"),
     ("recommendation", "Can you recommend a good book to read?"),
     ("recommendation", "I need a movie recommendation."),
@@ -106,7 +104,6 @@ training_data = [
     ("feedback", "I'd like to provide feedback on your customer service."),
     ("complaint", "I received a damaged product."),
     ("complaint", "Your delivery service is very slow."),
-    # Continue adding more examples...
     ("location", "Where can I find a nearby restaurant?"),
     ("location", "Tell me the nearest gas station."),
     ("joke", "Tell me a joke."),
