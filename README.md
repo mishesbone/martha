@@ -1,2 +1,2 @@
 # martha
-A Conversational AI Bot
+A Conversational AI Botin mememory of my Mum.
