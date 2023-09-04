@@ -33,7 +33,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/martha.git
+git clone https://github.com/mishesbone/martha
 cd martha-agent
 
 Run the agent:
