@@ -34,13 +34,13 @@ Usage
     bash
 
 git clone https://github.com/mishesbone/martha
-cd martha
+cd martha-main
 
 Run the agent:
 
 bash
 
-    python martha.py
+    python ia.py
 
     Start interacting with Martha. Type your messages, and Martha will respond based on her trained behavior.
 
