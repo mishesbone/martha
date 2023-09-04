@@ -1,10 +1,7 @@
 # martha
 A Conversational AI Bot in memory of my Mum who died 14th April, 2023.
-Customizable Agent "Martha" - Responds to User
 
-Python Version 3
-Author @roboteknologies
-Last Updated 09/04/2023
+Customizable Agent "Martha" - Responds to User prompts
 
 This Python code defines an intelligent agent named "Martha" that responds to user input. Martha is highly customizable, allowing you to train her to recognize different intents and customize her responses. This README provides an overview of how to use Martha and train her with your own data.
 Table of Contents
