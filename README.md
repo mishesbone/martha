@@ -33,7 +33,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/martha-agent.git
+git clone https://github.com/yourusername/martha.git
 cd martha-agent
 
 Run the agent:
@@ -68,7 +68,7 @@ training_data = [
     ("farewell", "Goodbye!"),
     # Add more training examples here
 ]
-
+githttps://chat.openai.com/auth/login?iss=https%3A%2F%2Fauth0.openai.com%2F
 Ensure that you have a diverse set of training examples to improve Martha's intent recognition.
 Interacting with Martha
 
