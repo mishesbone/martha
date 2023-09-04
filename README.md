@@ -34,7 +34,7 @@ Usage
     bash
 
 git clone https://github.com/mishesbone/martha
-cd martha-agent
+cd martha
 
 Run the agent:
 
